@@ -95,7 +95,7 @@ To build useful software that solves real-world problems.
 ## 📫 Connect With Me
 
 LinkedIn:
-(https://www.linkedin.com/in/aubaldullah-madoseh-916812118/)
+https://www.linkedin.com/in/aubaldullah-madoseh-916812118/
 
 GitHub:
-[your-link]
+https://github.com/ubaidillah1996
