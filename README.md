@@ -1,101 +1,27 @@
-# Hi, I'm Ubai 👋
+# Hi, I'm Ubaidillah 👋
 
-Software Developer in Progress | AI & Full Stack Enthusiast
+Aspiring Full Stack Developer focused on AI-powered applications.
 
-I am a career-switching developer transitioning into software engineering.
-
-Currently learning and building projects around:
+Currently learning:
 - Python
-- JavaScript
-- AI Applications
-- Data Analytics
-- Full Stack Development
-
-
-## 🚀 Featured Projects
-
-
-### 🤖 ALPA - AI Learning Assistant
-
-An intelligent learning tracker designed to help learners monitor progress, analyse habits and improve consistency.
-
-Tech Stack:
-- Python
-- SQLite
-- Pandas
-- Matplotlib
-
-Repository:
-[ALPA](your-link)
-
-
----
-
-### 🎮 Dota 2 Pos 1 Coach
-
-A Dota 2 match analysis tool that provides insights for carry players using OpenDota API.
-
-Features:
-- Match statistics analysis
-- KDA analysis
-- Gold & XP analysis
-- Performance insights
-
-Tech Stack:
-- Python
-- API Integration
-- Data Analysis
-
-
-Repository:
-In progress
-
-
----
-
-## 🛠️ Tech Stack
-
-Languages:
-- Python
-- JavaScript
-
-Backend:
 - FastAPI
-- Node.js
+- React
+- Database Design
+- AI Integration
 
-Database:
-- SQLite
-- MongoDB
+## Current Focus
 
-Tools:
-- Git
-- GitHub
-- VS Code
+Building practical software solutions
+that solve real-world problems.
 
+## Featured Projects
 
----
+🚀 ALPA
+AI Productivity & Performance Assistant
 
-## 📚 Currently Learning
+🎮 Dota2 Pos1 Coach
+Game Analytics & AI Recommendation System
 
-- Full Stack Development
-- AI Agents
-- Cloud Deployment
-- Software Architecture
+## Tech Stack
 
-
----
-
-## 🎯 My Goal
-
-To build useful software that solves real-world problems.
-
-
----
-
-## 📫 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/aubaldullah-madoseh-916812118/
-
-GitHub:
-https://github.com/ubaidillah1996
+Python | FastAPI | React | PostgreSQL | AI API | Git
